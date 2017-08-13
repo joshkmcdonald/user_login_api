@@ -20,6 +20,7 @@ gem 'puma', '~> 3.7'
 gem 'bcrypt', '~> 3.1.7'
 # Makes encoding and decoding of HMACSHA256 tokens available in the Rails application
 gem 'jwt'
+gem 'simple_command'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
